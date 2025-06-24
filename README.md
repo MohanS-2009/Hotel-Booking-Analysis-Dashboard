@@ -39,7 +39,8 @@
 5.  Features & Highlights
 
   • Business Problem
-      Hotel chains struggle to monitor large volumes of booking data and identify critical patterns across time, location, and customer behavior, which impacts operational efficiency and revenue strategy.
+
+  Hotel chains struggle to monitor large volumes of booking data and identify critical patterns across time, location, and customer behavior, which impacts   operational efficiency and revenue strategy.
 
   • Goal of the Dashboard
 
@@ -101,13 +102,13 @@
 
 5.  Business Impact & Insights
 
-  •  Operational Efficiency: Helps hotels reduce cancellations and no-shows with lead time planning.
+    •  Operational Efficiency: Helps hotels reduce cancellations and no-shows with lead time planning.
 
-  •  Revenue Forecasting: Identifies top-performing channels for targeted marketing.
+    •  Revenue Forecasting: Identifies top-performing channels for targeted marketing.
 
-  •  Global Strategy: Country-wise mapping enables international outreach planning.
+    •  Global Strategy: Country-wise mapping enables international outreach planning.
 
-  •  Customer Targeting: Segmentation helps tailor services for transient vs contract-based guests.
+    •  Customer Targeting: Segmentation helps tailor services for transient vs contract-based guests.
   
 
 6.  Screenshots
