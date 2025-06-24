@@ -114,4 +114,5 @@
 6.  Screenshots
 
     An overview of booking trends, customer segmentation, revenue channels, and seasonal behaviors from 2014–2017.
+    
     ![image alt](https://github.com/MohanS-2009/Hotel-Booking-Analysis-Dashboard/blob/main/Hotel%20Booking%20Analysis.PNG)
