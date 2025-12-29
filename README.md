@@ -109,7 +109,7 @@
     •  Global Strategy: Country-wise mapping enables international outreach planning.
 
     •  Customer Targeting: Segmentation helps tailor services for transient vs contract-based guests.
-  
+
 
 6.  Screenshots
 
