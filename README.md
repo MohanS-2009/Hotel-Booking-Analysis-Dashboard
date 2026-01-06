@@ -110,7 +110,6 @@
 
     •  Customer Targeting: Segmentation helps tailor services for transient vs contract-based guests.
 
-
 6.  Screenshots
 
     An overview of booking trends, customer segmentation, revenue channels, and seasonal behaviors from 2014–2017.
